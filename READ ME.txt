@@ -1,0 +1,20 @@
+Read me First
+
+Please Edit using NotePad,NotePad++ 
+
+
+1. If you want to add another blog,
+1.A Include the picture with the same name+1 eg:work8,work9
+1.B Copy paste the blog CSS and edit the new blog eg:NinthBlog etc
+
+2.href points to the links-> so put your URL accordingly.
+3.The CSS doesnt allow me to change the background for each blog, so just go with it.
+4. Send Mail needs to be assigned to your email
+5.if you wish to categorise the blogs or put them in a folder, please assign the path
+eg. FolderName/FirstBlog.html etc
+6. Smoke Weed Everyday
+
+
+
+-Basheep
+-17/10/2017
